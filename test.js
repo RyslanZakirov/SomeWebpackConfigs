@@ -1,5 +1,1 @@
 class Some {}
-
-const some = () => {
-  console.log("SOME FUNCTIONN");
-};
